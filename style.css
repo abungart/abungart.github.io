@@ -4,6 +4,10 @@ html, body {
   line-height: 1.5;
 }
 
+header {
+  margin-left:300px;
+}
+
 p {
   margin-left: 35px;
 }
