@@ -2,7 +2,7 @@ html, body {
   min-height: 100%;
   font-weight: 300;
   line-height: 1.5;
-  margin-left:250px;
+  margin-left:175px;
   margin-right:100px;
 }
 
@@ -27,7 +27,7 @@ h3 {
   margin-left: 25px;
 }
 references {
-	padding: 250px 0;
+	padding: 175px 0;
 	margin: 30px;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
