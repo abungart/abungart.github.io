@@ -13,6 +13,8 @@ header {
 .image {
   float: right;
   display: flex;
+  max-width: 20%;
+  max-height: 20%;
 }
 
 p {
