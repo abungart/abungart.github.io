@@ -10,6 +10,10 @@ header {
   margin-left:10px;
 }
 
+.image {
+  float:right;
+}
+
 p {
   margin-left: 35px;
   font-size: 18px;
