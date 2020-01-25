@@ -11,7 +11,8 @@ header {
 }
 
 .image {
-  float:right;
+  float: right;
+  display: flex;
 }
 
 p {
