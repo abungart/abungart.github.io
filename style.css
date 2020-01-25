@@ -4,10 +4,22 @@ html, body {
   line-height: 1.5;
 }
 
-h1 {
-  font-size: 48px;
+p {
+  padding 35px;
 }
 
+h1 {
+  font-size: 48px;
+  padding: 20px;
+}
+
+h2 {
+  padding: 25px;
+}
+
+h3 {
+  padding: 25px;
+}
 references {
 	padding: 250px 0;
 	margin: 30px;
