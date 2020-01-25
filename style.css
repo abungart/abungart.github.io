@@ -12,7 +12,6 @@ header {
 
 .image {
   float: right;
-  display: flex;
   max-width: 30%;
   max-height: 30%;
 }
