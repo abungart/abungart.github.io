@@ -4,6 +4,7 @@ html, body {
   line-height: 1.5;
   margin-left:175px;
   margin-right:100px;
+  background-color: rgb(135,240,239);
 }
 
 header {
