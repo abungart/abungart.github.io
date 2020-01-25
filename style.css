@@ -39,11 +39,11 @@ h3 {
   margin-left: 25px;
 }
 
-training {
+.training {
   border-style: solid;
 }
 
-references {
+.references {
 	padding: 175px;
 	margin: 30px;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
