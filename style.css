@@ -5,20 +5,20 @@ html, body {
 }
 
 p {
-  padding 35px;
+  margin-left: 35px;
 }
 
 h1 {
   font-size: 48px;
-  padding: 20px;
+  margin-left: 20px;
 }
 
 h2 {
-  padding: 25px;
+  margin-left: 25px;
 }
 
 h3 {
-  padding: 25px;
+  margin-left: 25px;
 }
 references {
 	padding: 250px 0;
