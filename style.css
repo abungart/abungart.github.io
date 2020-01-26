@@ -11,11 +11,11 @@ header {
   margin-left:10px;
 }
 
-.col-sm-4 {
+.image {
   float: right;
   display: flex;
-  max-width: 40%;
-  max-height: 45%;
+  max-width: 300px;
+  max-height: 300px;
 }
 
 p {
