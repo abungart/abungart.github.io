@@ -11,7 +11,7 @@ header {
   margin-left:10px;
 }
 
-.image {
+.col-sm-4 {
   float: right;
   display: flex;
   max-width: 40%;
