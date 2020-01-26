@@ -16,7 +16,6 @@ header {
   display: flex;
   max-width: 40%;
   max-height: 45%;
-  align-items: right;
 }
 
 p {
